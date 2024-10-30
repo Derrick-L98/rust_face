@@ -1,0 +1,10 @@
+[package]
+name = "rust_face"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# rustface = "0.1.7"
+# image = "0.25.4"
+# imageproc = "0.25.0"
+opencv = "0.93.3"
